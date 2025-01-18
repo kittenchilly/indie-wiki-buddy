@@ -5672,6 +5672,31 @@
     "destination_host": "Miraheze"
   },
   {
+    "id": "en-metroid",
+    "origins_label": "Metroid Fandom & Neoseeker Wikis",
+    "origins": [
+      {
+        "origin": "Wikitroid",
+        "origin_base_url": "metroid.fandom.com",
+        "origin_content_path": "/wiki/",
+        "origin_main_page": "Metroid_Wiki"
+      },
+      {
+        "origin": "Metroid Wiki - Neoseeker",
+        "origin_base_url": "metroid.neoseeker.com",
+        "origin_content_path": "/wiki/",
+        "origin_main_page": "Main_Page"
+      }
+    ],
+    "destination": "Metroid Wiki",
+    "destination_base_url": "www.metroidwiki.org",
+    "destination_platform": "mediawiki",
+    "destination_icon": "metroidwiki.png",
+    "destination_main_page": "Main_Page",
+    "destination_search_path": "/w/index.php",
+    "destination_content_path": "/wiki/"
+  },
+  {
     "id": "en-micronations",
     "origins_label": "MicroNations Fandom Wikis",
     "origins": [
